@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-apps/fetch-filter-react/static/css/main.1e4211d7.css",
+    "main.js": "/react-apps/fetch-filter-react/static/js/main.71383e28.js",
+    "index.html": "/react-apps/fetch-filter-react/index.html",
+    "main.1e4211d7.css.map": "/react-apps/fetch-filter-react/static/css/main.1e4211d7.css.map",
+    "main.71383e28.js.map": "/react-apps/fetch-filter-react/static/js/main.71383e28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e4211d7.css",
+    "static/js/main.71383e28.js"
+  ]
+}
