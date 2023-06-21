@@ -1,2 +1,0 @@
-# react-apps
-practice projects
