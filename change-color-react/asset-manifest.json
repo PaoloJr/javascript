@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-apps/change-color-react/static/css/main.3b82310b.css",
-    "main.js": "/react-apps/change-color-react/static/js/main.015cd3a7.js",
+    "main.js": "/react-apps/change-color-react/static/js/main.98a3961c.js",
     "index.html": "/react-apps/change-color-react/index.html",
     "main.3b82310b.css.map": "/react-apps/change-color-react/static/css/main.3b82310b.css.map",
-    "main.015cd3a7.js.map": "/react-apps/change-color-react/static/js/main.015cd3a7.js.map"
+    "main.98a3961c.js.map": "/react-apps/change-color-react/static/js/main.98a3961c.js.map"
   },
   "entrypoints": [
     "static/css/main.3b82310b.css",
-    "static/js/main.015cd3a7.js"
+    "static/js/main.98a3961c.js"
   ]
 }
