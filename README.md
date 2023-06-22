@@ -15,6 +15,6 @@ _Live Sites:_ <br>
 
 [Form-Validator](https://paolojr90.github.io/react-apps/)
 
-[Weather Station](https://paolojr90.github.io/react-apps/)
+[Weather Station](https://paolojr90.github.io/react-apps/) --> under construction
 
-[Personal Website Template](https://paolojr90.github.io/react-apps/)
+[Personal Website Template](https://paolojr90.github.io/react-apps/) --> under construction
