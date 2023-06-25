@@ -13,8 +13,6 @@ _Live Sites:_ <br>
 
 [Fetch-Show and Filter Profile](https://paolojr90.github.io/react-apps/fetch-filter-react)
 
-[Form-Validator](https://paolojr90.github.io/react-apps/)
+[Form-Validator](https://paolojr90.github.io/react-apps/form-validator-react)
 
-[Weather Station](https://paolojr90.github.io/react-apps/) --> under construction
-
-[Personal Website Template](https://paolojr90.github.io/react-apps/) --> under construction
+[Weather Station](https://paolojr90.github.io/react-apps/weather-station-react) --> under construction
