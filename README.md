@@ -16,3 +16,5 @@ _Live Sites:_ <br>
 [Form-Validator](https://paolojr90.github.io/react-apps/form-validator-react)
 
 [Weather Station](https://paolojr90.github.io/react-apps/weather-station-react) --> under construction
+
+[Tic-Tac-Toe](https://paolojr90.github.io/react-apps/tic-tac-toe-react) --> under construction
