@@ -14,7 +14,3 @@ _Live Sites:_ <br>
 [Fetch-Show and Filter Profile](https://paolojr90.github.io/react-apps/fetch-filter-react)
 
 [Form-Validator](https://paolojr90.github.io/react-apps/form-validator-react)
-
-[Weather Station](https://paolojr90.github.io/react-apps/weather-station-react) --> under construction
-
-[Tic-Tac-Toe](https://paolojr90.github.io/react-apps/tic-tac-toe-react) --> under construction
