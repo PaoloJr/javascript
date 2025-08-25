@@ -6,14 +6,14 @@
 
 ### react-apps practice
 
-_Live Sites_ \
-[BMI Calculator](https://paolojr.github.io/react-apps/bmi-calculator-react) \
-[Changing Colors](https://paolojr.github.io/react-apps/change-color-react/) \
-[Fetch-Show and Filter Profile](https://paolojr.github.io/react-apps/fetch-filter-react) \
-[Form-Validator](https://paolojr.github.io/react-apps/form-validator-react) \
-[Modal-Window](https://paolojr.github.io/react-apps/modal-window-react) \
-[Mortgage-Calculator](https://paolojr.github.io/react-apps/to-do-react) \
-[To-Do List](https://paolojr.github.io/react-apps/to-do-react)
+_Live Sites - deployed from `pages` branch_ \
+[BMI Calculator](https://paolojr.github.io/javascript/react-apps/bmi-calculator-react) \
+[Changing Colors](https://paolojr.github.io/javascript/react-apps/change-color-react/) \
+[Fetch-Show and Filter Profile](https://paolojr.github.io/javascript/react-apps/fetch-filter-react) \
+[Form-Validator](https://paolojr.github.io/javascript/react-apps/form-validator-react) \
+[Modal-Window](https://paolojr.github.io/javascript/react-apps/modal-window-react) \
+[Mortgage-Calculator](https://paolojr.github.io/javascript/react-apps/to-do-react) \
+[To-Do List](https://paolojr.github.io/javascript/react-apps/to-do-react)
 
 ---
 

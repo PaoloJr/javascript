@@ -2,7 +2,7 @@
   "name": "to-do-app-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://paolojr.github.io/react-apps/to-do-react",
+  "homepage": "https://paolojr.github.io/javascript/react-apps/to-do-react",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
