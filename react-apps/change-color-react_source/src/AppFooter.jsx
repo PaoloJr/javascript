@@ -7,7 +7,7 @@ function AppFooter() {
   // console.log(setState);
 
   return (
-    <footer className="footer"> PJ Angeloni - First React Assignment</footer>
+    <footer className="footer"> Bruce Wayne - First React Assignment</footer>
   );
 }
 
