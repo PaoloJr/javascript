@@ -1,61 +1,30 @@
 # learn JavaScript
 
-practice concepts
-
-[HTTP Server](./_learnJS/http/)
-
-[JS Workers](./_learnJS/JS_Workers/)
-
-[Fibonacci](./_learnJS/fibonacci.js)
+[practice concepts](./_learnJS/)
 
 ---
 
 ## react-apps
-
 practice projects
 
-_Live Sites:_ <br>
-[Changing Colors](https://paolojr90.github.io/react-apps/change-color-react/)
-
-[BMI Calculator](https://paolojr90.github.io/react-apps/bmi-calculator-react)
-
-[Modal-Window](https://paolojr90.github.io/react-apps/modal-window-react)
-
-[To-Do List](https://paolojr90.github.io/react-apps/to-do-react)
-
-[Fetch-Show and Filter Profile](https://paolojr90.github.io/react-apps/fetch-filter-react)
-
-[Form-Validator](https://paolojr90.github.io/react-apps/form-validator-react)
+_Live Sites_
+[BMI Calculator](https://paolojr.github.io/react-apps/bmi-calculator-react)
+[Changing Colors](https://paolojr.github.io/react-apps/change-color-react/)
+[Fetch-Show and Filter Profile](https://paolojr.github.io/react-apps/fetch-filter-react)
+[Form-Validator](https://paolojr.github.io/react-apps/form-validator-react)
+[Modal-Window](https://paolojr.github.io/react-apps/modal-window-react)
+[Mortgage-Calculator](https://paolojr.github.io/react-apps/to-do-react)
+[To-Do List](https://paolojr.github.io/react-apps/to-do-react)
 
 ---
 
-### projects to-do:
-
-#### sudoku 🧩
+### practice
 
 [Sudoku Game](https://youtu.be/xpsm3tOLTVE) \
 [Sudoku Solver](https://youtu.be/F1vKV8fR1Os)
-
----
-
-#### snake game 🐍
-
 [Snake Game in JS](https://www.freecodecamp.org/news/how-to-build-a-snake-game-in-javascript/)
-
----
-
-#### calculator-counter 🧮
-
-[Calculator](https://www.freecodecamp.org/news/javascript-dom-build-a-calculator-app)
-
+[calculator-counter](https://www.freecodecamp.org/news/javascript-dom-build-a-calculator-app)
 and include (store number of "=" presses in the counter)
-
-[Counter](https://www.freecodecamp.org/news/learn-javascript-by-building-a-project/)
-
----
-
-#### tic-tac-toe 🎲
-
-[React Tutorial](https://react.dev/learn/tutorial-tic-tac-toe)
-
-[freeCodeCamp Tutorial](https://www.freecodecamp.org/news/learn-how-to-build-tic-tac-toe-with-react-hooks/)
+[counter](https://www.freecodecamp.org/news/learn-javascript-by-building-a-project/)
+[tic-tac-toe - freeCodeCamp](https://www.freecodecamp.org/news/learn-how-to-build-tic-tac-toe-with-react-hooks/)
+[tic-tac-toe - react.dev](https://react.dev/learn/tutorial-tic-tac-toe)
