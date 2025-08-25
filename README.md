@@ -6,7 +6,7 @@
 
 ### react-apps practice
 
-_Live Sites - deployed from `pages` branch_ \
+_previously live sites - deployed from `pages` branch with `build` artifacts_ \
 [BMI Calculator](https://paolojr.github.io/javascript/react-apps/bmi-calculator-react) \
 [Changing Colors](https://paolojr.github.io/javascript/react-apps/change-color-react/) \
 [Fetch-Show and Filter Profile](https://paolojr.github.io/javascript/react-apps/fetch-filter-react) \
